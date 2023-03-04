@@ -1,6 +1,8 @@
 # ios_scaffold_flutter_demo
 
-A new Flutter project.
+Flutter demo for navigation-view simillar to the native iOS experience
+
+https://user-images.githubusercontent.com/52180711/222910074-36ac9b48-cb39-46b9-8982-5fa0a3aa2a73.mov
 
 ## Getting Started
 
